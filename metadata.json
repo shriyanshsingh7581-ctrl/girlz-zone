@@ -1,0 +1,6 @@
+{
+  "name": "Girlz Zone — Ambernath Beauty & Fashion Store",
+  "description": "Mobile-first luxury beauty, cosmetics, skincare, fragrance, jewellery, and handbag e-commerce store in Ambernath with live store admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
